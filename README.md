@@ -14,5 +14,12 @@
 - a cell in column 1 and row 2
 - a cell in row 5 and column 3
 
+## OffSet() in OpenPyXL
+
+- We can only pass integer-values in offset function and not Relative or Absolute reference value. 
+![image](https://github.com/sundas586/Control-Excel-with-OpenPyXL/assets/33677647/9cd307ca-9f9d-476f-a789-189ae6d0360f)
+
+
+
 
 
